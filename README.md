@@ -19,7 +19,7 @@ echo "
     Spammer Call From TOKOPEDIA
         Author By   : cursor99
         Support     : Kunjungi Website Kami
-        Website     : https://wiki.termux.com
+        Website     : https://termux.id
         Youtube     : *****
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
